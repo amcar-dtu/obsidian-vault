@@ -4,9 +4,9 @@
 
 ![[zi_vincenzino_pt.1.ogg]]
 
-M.  Quello ci ha aiutato co’ tutte le forze che teneva, poverino.
-
-A.    Zi’ Giachino…
+> **M.**  Quello ci ha aiutato co’ tutte le forze che teneva, poverino.
+> 
+> **A.**    Zi’ Giachino…
 
 M.  Eh, ‘o padre ‘e Giuseppe, quiro veramente c’ ‘a voluto bene, c’a aiutato co’ ‘o fiato. No’ ‘mporta ca’ soldi non ne tenea, però ‘e ghieva trovanno pe’ nui. ‘O padre ‘e Tino ind’a Mola. Zi’ Giachino faceva ‘a giornata appriesso a nui indo Avellino, pe’ zi’ Vincienzo, e loro iero a Mataróla a pota’, a fa’ e a dice, pecché quiro morìo ‘e diciotto maggio, se potava ancora, jero a chianta’ e a fa’.
 
