@@ -45,3 +45,7 @@ Use current mode to avoid current spikes in the IV curve!
 3. Dyakonov (?)
 4. Asgar (?)
 5. Battulga (DTU)
+
+# 5 To Do
+
+Send email for meeting (Ilia and Corné)
