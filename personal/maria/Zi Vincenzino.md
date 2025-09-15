@@ -180,7 +180,9 @@ Che nui veniemmo ra Roma, quanno murìo nonno, po’ ‘nge ne jemmo pecché qui
 > 
 > **A.** E se sposao n'ata vota...
 > 
-> **M.** E se sposao n'ata vota...
+> **M.** E se sposao a nonna, nonna era giovanissima, nonna era restata vedova a diciannove anni... nonna Filomena...
+> 
+> **A.** E quindi poi tu non sai a chi apparteneva quera casa prima
 
 ## Parte 3
 
