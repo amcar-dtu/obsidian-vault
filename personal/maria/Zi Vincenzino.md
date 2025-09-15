@@ -91,48 +91,96 @@ Che nui veniemmo ra Roma, quanno murìo nonno, po’ ‘nge ne jemmo pecché qui
 ![[zi_vincenzino_pt.2.ogg]]
 
 > **A.** Io non ho capito una cosa: come è successo che lui è finito all'ospedale? Com'è andata? 
+> 
 > **M.** Pecché (...) le pigliao 'na colica...
+> 
 > **A.** Allora, contestualizziamo... Voi stavate a Roma...
+> 
 > **M.** Eh..!
+> 
 > **A.** Isso steva... abitava c'a mogliere addo..?
+> 
 > **M.** 'A casa addo' steva Clotilde, addo stanno loro... addo stanno i Ragno.
+> 
 > **A.** Ma aspetta, com'erano divise 'e stanze, nel senso: qua, abbo' ci steva nonna Filomena però quanno succerìo nonna Filomena era muorta...
+> 
 > **M.** Eh sì sì...
+> 
 > **A.** Steva quindi nonno Nicola, però era già muorto nonno Nicola...
+> 
 > **M.** Eh e restavo chiu' \[*sic*\] nonna \[Tanina, *ndr*\], che stea ind'a sta stanza addo' facevano 'o barbiere, pecché ind'a stanza 'e nonna...
+> 
 > **A.** È 'a stanza chiu' bella secondo me quella...
+> 
 > **M.** No, sta l'ata stanza addereto...
+> 
 > **A.** Io aggio visto quere arreto come so, però quera pure è bella...
+> 
 > **M.** Abbo' quera mo l'anno fatta a modo loro...
+> 
 > **A.** Eh...
+> 
 > **M.** ... si no addereto erano belle stanze... grosse... Là addereto stea che sporgeva ind'o giardino e stea a stanza 'e nonna Tanina. Po' 'nge stea 'na stanza addo' teniemmo sto tavolo che teniti vui \[il famoso tavolo di nonno Nicola, nella stanza da pranzo, *ndr*\], steano 'e seggie, 'a capito?
+> 
 > **A.** Però quindi, 'a parte 'e Albina e Angelina stea sulo nonna, e basta...
+> 
 > **M.** No, steano tutti quanta, a cucina nui a teniemmo lloco...
+> 
 > **A.** Chi c'abitava chiu'?
+> 
 > **M.** Sulo loro, sulo nui stiemmo...
+> 
 > **A.** Nonna Tanina e zi' Vincenzino e 'a mogliere?
+> 
 > **M.** E a mogliere...
+> 
 > **A.** E basta?? 
+> 
 > **M.** E no, e basta, e po' quanno venea io ra Roma...
+> 
 > **A.** Però tu m'a ritto che zi Vincenzino co 'a mogliere steano 'a parte 'e Clotilde...
+> 
 > **M.** Eh, 'a parte 'e Clotilde a là, no qua, questa qua era 'e 'on Ciriaco, addo s'a fatta a scalinata Clotilde...
+> 
 > **A.** Ah... 
+> 
 > **M.** ...era 'e 'on Ciriaco...
+> 
 > **A.** E quindi qual è 'a parte 'e Clotilde ca rici tu..?
+> 
 > **M.** Addereto, s'a pigliate 'e meglio stanze: Clotilde tene due stanze rosse, 'a stanza 'e lietto 'e mamma, e quer'ata stanza... 'a capito? Mario avìo sta stanza piccerella, addo face 'a barberia e a' cucina.
+> 
 > **A.** Mh...
+> 
 > **M.** Albina ha avuto 'o cellaro, e 'na stanza vecchia che teniemmo là ddereto, che po' hanno fabbrecato, pecché stiemmo... stea tanto spazio... chiu ro' spazio ra qua e llane, pe tutto 'o giardino 'nge stea na... a fore 'o giardino che po' nui teniemmo 'o puorteco, teniemmo 'a monnezza, teniemmo tutto cose là, 'a capito? Po' steano 'e cantine sotta.
+> 
 > **A.** Mh... Ma... tu sai a chi appartenea quera casa prima che appartenea a famiglia vosta...?
+> 
 > **M.** ('A famiglia 'e (?)) nonno Vicienzo, è stata sempe 'e nonno Vicienzo...
+> 
 > **A.** Nonno Vicienzo chi era..?
+> 
 > **M.** Era lo nonno... eh lo padre de mio padre, 'e zi' Rosina e 'e papà.
+> 
 > **A.** Quindi era 'o marito 'e nonna Filomena?
+> 
 > **M.** Eh. Però zi' Vincenzo... eh, nonno Vicienzo era sposato due vote...
+> 
 > **A.** Ah sì?
+> 
 > **M.** Nonna era 'a seconda moglie...
+> 
 > **A.** Che storia! E pecché s'è risposato?
+> 
 > **M.** E pecché quera murìo..!
-> **A.** 
+> 
+> **A.** Quindi morìo 'a prima mogliere... senza figli?
+> 
+> **M.** Senza figli. 
+> 
+> **A.** E se sposao n'ata vota...
+> 
+> **M.** E se sposao n'ata vota...
 
 ## Parte 3
 
