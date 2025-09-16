@@ -17,8 +17,16 @@ Proof points (✅ nothing to do; ❌ to fix):
 	✅ The reference had the wrong volume and page number. The correct reference is: Frances Camille M. Wu, Shang-Hsuan Wu, Bin Fang, Xintong Li, Jadon Zheng, Jean Anne C. Incorvia, and Edward T. Yu. Nano Letters **2025** _25_ (27), 10983-10989 DOI: 10.1021/acs.nanolett.5c02619 
 - Please **confirm ORCIDs** are accurate. 
 	✅ I have checked all the ORCID they are all OK! (*Nicolas*)
-	❌ I have checked our affiliations and grant numbers, it's all OK except Thomas's grant number: Teknologi og Produktion, Det Frie Forskningsråd, Award/Contract Number ~~4264-00065B~~ 10.46540/4264-00065B (*Nicolas*)
+	✅ I have checked our affiliations and grant numbers, it's all OK except Thomas's grant number: Teknologi og Produktion, Det Frie Forskningsråd, Award/Contract Number ~~4264-00065B~~ 10.46540/4264-00065B (*Nicolas*)
 - **Extras**:
 	❌ in the caption of table 1 I can suggest adding that Neutr. corresponds to neutrons. And also Graph. is graphene. (*Nicolas*)
 	- (*Amedeo*) I have just a point on the formatting of the tables: I acknowledge that this is their style and I don't think we can syndicate on that, but removing the horizontal lines makes the tables look very confusing...
+	  (*Nicolas*) Regarding the horizontal lines, I'd rather keep them if possible...
+	❌ (*Christoph*) 
+	- Line 791: they use -> they used (to stay consistently in past tense)
+	- Line 845: in UV -> in the UV range
+	- Line 1296: compares -> compare
+	- Line 1323: depicts -> depict
+	- Line 1420 : (…)-> (…). 
+	- Caption of Figure 7: delete “of telecom-range” (mistake from my side, the energies in the graph are given in 1550 meV, I turned it into nm in my head).
 	
