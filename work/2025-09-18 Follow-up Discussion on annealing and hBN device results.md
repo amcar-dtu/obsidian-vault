@@ -36,7 +36,12 @@
 | ![[ThBN1_x14y87_01_100x_520nm_01.png\|550]] |    1     |
 
 ## 3.3 Sample post-annealing characterization
-
+> Annealing details:
+> - the sample was put on a ceramic plate (no graphite/quartz boat used)
+> - temperature was ramped up (20 ∘C/min) up to 1000 ∘C and kept there for 45 mins 
+> - other details: 
+> 	- 200 scc of flow measured at MFC (mass flow controller) 
+> 	- ~1 Torr (~130 mbar) operational pressure with flow
 
 | Img                                                      | Sample # |
 | -------------------------------------------------------- | :------: |
