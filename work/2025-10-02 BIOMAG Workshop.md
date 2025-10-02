@@ -79,4 +79,10 @@
 
 ## Ilia: Charge state control of $V_B^-$ defect in hBN (CC experiments)
 
-
+- N$_2$ irradiation and 0/3/12 s of O$_2$ plasma on a 100 nm flake
+- they etch the flake a bit (91.2 --> 88.1 nm) and this results in mild PL quenching --> they explain it as thin film effect --> the changed interference behaviour between hBN and substrate lowers the efficiency
+- N$_2$ and O$_2$ irradiation on a 40 nm thick flake
+- planar gating of N-irradiated hBN flake with one electrode (very *naïve* approach)
+- planar gating of N-irradiated hBN flake with two electrodes (not-so *naïve* approach) but no real change
+- 100 nm hBN flake after N$_2$ FIB of 1 pC/µm$^2$ with MLG on top --> here they measure up to 3-4% PL quenching, and the lower the opt. power the more measurable is the quenching (it comes at lower V)
+- nature.com/articles/s41377-022-00877-7
