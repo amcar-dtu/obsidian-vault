@@ -41,4 +41,6 @@
 	- effects of baking in Ar/O$_2$ atmosphere: burns off thin layers of solvent residue from substrate and top of hBN flakes, and appears to have partial cleaning effect under hBN! at least it is able to clean down to 2-3 µm from the flake edge inwards --> very useful for small flakes!!
 	- **easy methods to visualize adhesive residues**:
 		- contrast enhancement in bright-field images
+		  ![[Pasted image 20251002104518.png|300]]
+		  Neumann, M., *et al*. (2023). Organic Molecules as Origin of Visible-Range Single Photon Emission from Hexagonal Boron Nitride and Mica. ACS Nano, 17(12), 11679–11691. https://doi.org/10.1021/acsnano.3c02348 (SI)
 		- on colorful flakes it's difficult to see residues --> use dark-field imaging!
