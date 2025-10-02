@@ -1,2 +1,44 @@
 ## Michael Neumann: Mechanism of single photon emission from hexagonal boron nitride (Tutorial Lecture)
 
+- At the time, the $g_2(0)$ antibunching was interpreted as a direct analogue of the one in $N_V$ centers.
+- Variable SPEs: 1.6 eV to 2.2 eV, observed after many hBN sample preparation protocols, typically with heat treatment around 850 $^\circ$C
+- ⚠️ The lack of agreement on "what are these emitters" is imputable to their variability
+- Well studied PAH-SPEs: terrylene, anthracene, DBT (di-benzo-terrylene), di-benzo-ovalene
+- Organic residues are ubiquitous in processing 2D materials
+- They are extrinsic molecules and they are also supposed to sit outside of the sample: the most natural place for them is the sample-substrate interface!
+- Two different types of cleaning cycles:
+	- cleaning in oxygen at 700 $^\circ$C
+	- (*live-cycle*) immersing it in organic solvent after the same cleaning
+- **Suspended hBN: virtually no emitters!**
+- They thinned down the hBN (see SI) and they see that the density of emitters doesn't scale down that much --> they reside mainly at the sample-substrate interface!!!
+- After removing hBN with metal foil, the emitters/contamination are left on the substrate, while the hBN on the metal foil now looks dark (but the Raman signature is still there!)
+- **Approach to hBN-SPE sample preparation**
+- unfortunately, hBN can have a passive role in the presence of contaminants (every emission is transmitted), whereas for ex. metals are able to quench emission
+- we need cleaning steps that make samples intentionally clean
+- worst sources of contamination:
+	- fingerprints! wearing gloves is important
+	- never share tweezers (fingerprints transfer!)
+	- do not mix tools among experiments (avoid cross-contamination, especially when dealing with organic solvents!) --> this improves the overall cleaniness 
+	- oil droplets from compressed gas guns (injected by compressors) can deposit! use **filtered guns** for **sample drying**
+	- carbon tape can leave excessive residue on chip back-side! clean carefully before baking!
+	- graphitised residues can give rise to:
+		- layer measurable in AFM
+		- D band in Raman response! you need a lot of graphitised rings to get that
+	- furnace parts need to be thoroughly cleaned!
+	- tape:
+		- don't use scotch magic tape --> it is dirty as fuck
+		- wafer dicing tape (the so-called "blue Nitto tape") is normally more adequate
+	- heat treatment in Ar/H$_2$ atmosphere at $\sim 400 ~^\circ C$  doesn't really remove residues, maybe it just spreads them around (so that's why u see less or no Raman response at all)
+	- a good treatment is:
+		- reduce tape and other residue sources
+		- clean flakes in **trichloroethylene** (Daejung Chemicals 8553-4400) --> very good for tape residues removal! **key step**
+		- then u need to remove solvent residues: first check optically, in some cases the flake is already clean and it's better to not pursue any further
+		- PL mapping is a very good tool to spot such contamination
+	- after these steps, one can proceed with the "live" cycle, where emitters are deterministically generated
+	- better to not wait too much in between the cleaning steps and the "live" cycle, to avoid further chances of unwanted contamination
+	- **tricholoroethylene** (TCE): it diffuses under the flakes and can remove a lot of contaminants at the interface, without leaving much residues!
+	- Insgesamt: the combination of TCE and oxygen baking seems to be superior to other cleaning techniques
+	- effects of baking in Ar/O$_2$ atmosphere: burns off thin layers of solvent residue from substrate and top of hBN flakes, and appears to have partial cleaning effect under hBN! at least it is able to clean down to 2-3 µm from the flake edge inwards --> very useful for small flakes!!
+	- **easy methods to visualize adhesive residues**:
+		- contrast enhancement in bright-field images
+		- on colorful flakes it's difficult to see residues --> use dark-field imaging!
