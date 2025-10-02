@@ -28,7 +28,7 @@
 	- tape:
 		- don't use scotch magic tape --> it is dirty as fuck
 		- wafer dicing tape (the so-called "blue Nitto tape") is normally more adequate
-	- heat treatment in Ar/H$_2$ atmosphere at $\sim 400 ~^\circ C$  doesn't really remove residues, maybe it just spreads them around (so that's why u see less or no Raman response at all)
+	- heat treatment in Ar/H$_2$ atmosphere at $\sim 400 ~^\circ$C  doesn't really remove residues, maybe it just spreads them around (so that's why u see less or no Raman response at all)
 	- a good treatment is:
 		- reduce tape and other residue sources
 		- clean flakes in **trichloroethylene** (Daejung Chemicals 8553-4400) --> very good for tape residues removal! **key step**
@@ -39,8 +39,44 @@
 	- **tricholoroethylene** (TCE): it diffuses under the flakes and can remove a lot of contaminants at the interface, without leaving much residues!
 	- Insgesamt: the combination of TCE and oxygen baking seems to be superior to other cleaning techniques
 	- effects of baking in Ar/O$_2$ atmosphere: burns off thin layers of solvent residue from substrate and top of hBN flakes, and appears to have partial cleaning effect under hBN! at least it is able to clean down to 2-3 µm from the flake edge inwards --> very useful for small flakes!!
-	- **easy methods to visualize adhesive residues**:
+	- **easy methods to visualise adhesive residues**:
 		- contrast enhancement in bright-field images
 		  ![[Pasted image 20251002104518.png|300]]
-		  Neumann, M., *et al*. (2023). Organic Molecules as Origin of Visible-Range Single Photon Emission from Hexagonal Boron Nitride and Mica. ACS Nano, 17(12), 11679–11691. https://doi.org/10.1021/acsnano.3c02348 (SI)
+		  Neumann, M., *et al*. (2023). *Organic Molecules as Origin of Visible-Range Single Photon Emission from Hexagonal Boron Nitride and Mica*. ACS Nano, **17** (12), 11679–11691. https://doi.org/10.1021/acsnano.3c02348 (SI)
 		- on colorful flakes it's difficult to see residues --> use dark-field imaging!
+		  ![[Pasted image 20251002105123.png]]
+
+## Manjari: High Throughput Screening of Spin Defects for Quantum Applications (CC modelling)
+
+## Cheng Engineering Addressable Color Centers in the hBN Lattice with Nanographene (CC modelling)
+
+- Nano Lett 2022 22 23 9227-
+- Materials Today Sustainability 28 (2024) 100988
+- They used: oxygen plasma + graphite box annealing --> **unstable emission** (fast bleach away in short time) and **unknown process in graphite box**!
+- they use now the nanofrazor for nanoscale patterning
+- they pattern a thermally sensitive polymer (PPA) on hBN --> they pattern very small (2 nm!) structures
+- then they use SF$_6$ to etch and transfer the pattern on the hBN!!
+- they etch holes in the hBN --> they light up in DF
+- 🧐 u can see contamination on hBN flakes from optical images...
+- for **carbon doping**: 
+	- oxygen plasma before growth
+	- standard graphene growth process
+	- Ar-annealing at 1000 $^\circ$C  
+- Slide 11: the hBN proves to attract all the carbon/graphite (u see G modes only on the hBN), but from the Raman spectra there is no visible difference between the patterned holes and the rest of the hBN around
+- PL mapping after each process: a 💩 lot of contamination and molecule-based emitters, but after annealing much of this 💩 goes away. AND apparently some of the patterned holes light up compared to the surrounding hBN, but very mild, very dim
+- in the end, I guess they want to achieve carbon doping in the holes (they want the smallest holes as possible)
+
+## Monika: Optical Investigation of Single Defects in hBN (CC experiments)
+
+- Sample #5: hBN exfoliation and cleaning --> pl mapping #1 --> nanofrazor patterning --> ozone generation --> pl mapping #2 --> heated ozone generation and annealing --> PL mapping #3
+- u can KINDA see the patterned area --> BUT it is just the substrate shining through the flake because it is thinner in those spots(?)
+- they tried ODMR --> no ODMR BUT mild antibunching(?)
+- Sample #6: hBN exfoliation and cleaning --> pl mapping #1 --> nanofrazor patterning --> oxygen plasma --> pl mapping #2 --> Ar annealing (in graphite box?)
+- they got a lot of emitters (contamination probably 😭)
+- they measure good $g_2$! but what about the durability of the emitters??
+- from the $g_2$ they get long delay bunching --> probable metastable state --> probable ODMR behaviour (see Stern *et al.*...) but no ODMR(?)...
+- the bright spot from Cheng! --> spectra looks interesting, but the emitter was very unstable (contamination 😭)
+
+## Ilia: Charge state control of $V_B^-$ defect in hBN (CC experiments)
+
+
