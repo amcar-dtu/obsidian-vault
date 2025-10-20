@@ -1,0 +1,7 @@
+- point out the main questions on slide #8: what do we want to model/understand
+- introduce the background charge
+- "and this surprised me"
+- make a slide with the PL evolution AND the E plot
+- "this is the novelty and I want to get credit for it!"
+- pay attention to the model: that's the very technical part
+- maybe introduce first the model and then introduce the results?
