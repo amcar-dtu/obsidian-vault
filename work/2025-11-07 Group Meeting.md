@@ -48,3 +48,9 @@ Battulga: his first PhD defense
 Tobias Vogl: after 16th of Feb
 Vladimir Dyakonov: before 28th of Feb
 DPG: from 9th of March
+
+# 3 Hanlins Presentation
+
+Idea for Chapter 4 Thesis:
+
+![[Pasted image 20251107114953.png]]
