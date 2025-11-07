@@ -42,3 +42,9 @@ Therefore, I took as an example the histograms for a charge density the closest 
 > The linewidth match almost perfectly...
 
 Man I wish I realized this way earlier...
+
+# 2 Defense!
+Battulga: his first PhD defense
+Tobias Vogl: after 16th of Feb
+Vladimir Dyakonov: before 28th of Feb
+DPG: from 9th of March
